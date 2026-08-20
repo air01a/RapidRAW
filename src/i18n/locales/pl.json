@@ -19,6 +19,7 @@
     },
     "color": {
       "ariaSelectColor": "Wybierz kolor {{name}}",
+      "blackAndWhiteTooltip": "",
       "calibration": {
         "colors": {
           "blue": "Niebieski",

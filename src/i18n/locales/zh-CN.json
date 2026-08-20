@@ -19,6 +19,7 @@
     },
     "color": {
       "ariaSelectColor": "选择 {{name}} 颜色",
+      "blackAndWhiteTooltip": "",
       "calibration": {
         "colors": {
           "blue": "蓝色",

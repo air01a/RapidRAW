@@ -19,6 +19,7 @@
     },
     "color": {
       "ariaSelectColor": "{{name}}色を選択",
+      "blackAndWhiteTooltip": "",
       "calibration": {
         "colors": {
           "blue": "ブルー",
